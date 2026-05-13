@@ -1,4 +1,4 @@
-# About Me:
+# About Me
 💼 Full Stack Engineer Intern @ BMO  
 🎓 3B Double Degree BBA & Computer Science Student @ Wilfrid Laurier University  
 ☁️ Exploring the intersection of AI/ML, Cloud & Data
@@ -6,10 +6,10 @@
 🎯 Seeking opportunities in AI Software Engineering, Cloud/DevOps Engineering & Data Engineering within finance 
 📫 Contact me: grew7925@mylaurier.ca  
 
-## Socials:
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair-grewal/) 
 
-# Tech Stack:
+# Technologies
 
 ## Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
